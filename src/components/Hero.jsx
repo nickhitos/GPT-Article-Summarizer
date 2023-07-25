@@ -9,10 +9,9 @@ const Hero = () => {
 					alt="sumz_logo"
 					className="w-28 object-contain"
 				/>
-				{/* TODO: Add link to repo */}
 				<button
 					type="button"
-					onClick={() => window.open("TODO")}
+					onClick={() => window.open("https://github.com/nickhitos/gpt-article-summarizer")}
 					className="black_btn"
 				>
 					GitHub
