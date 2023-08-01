@@ -1,8 +1,9 @@
 # SummariGo
 
-![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/tailwind-darkturquoise?style=for-the-badge&logo=tailwind%20css&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/react-1c2c4c?style=for-the-badge&logo=react&logoColor=white&link=https%3A%2F%2Freact.dev)
+![Static Badge](https://img.shields.io/badge/vite-bf00ff?style=for-the-badge&logo=vite&logoColor=white&link=https%3A%2F%2Fvitejs.dev)
+![Static Badge](https://img.shields.io/badge/tailwind-darkturquoise?style=for-the-badge&logo=tailwind%20css&logoColor=white&link=https%3A%2F%2Ftailwindcss.com)
+![Static Badge](https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white&link=https%3A%2F%2Fredux.js.org)
 
 ## About
 
